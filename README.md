@@ -5,7 +5,8 @@
 
 📫 How to reach me: mdidinxy@gmail.com || https://www.linkedin.com/in/mdidin/
 
-- ⚡ Please visit my portfolio website to get more information: https://mdidin-portfolio.herokuapp.com || https://github.com/socodes/Personal-Website
+- ⚡ Please visit my portfolio website to get more information: 
+https://mdidin-portfolio.herokuapp.com || https://github.com/socodes/Personal-Website
 
 
 <!--
