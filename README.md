@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-  -I'm a Full Stack Developer Candidate who can work with Spring Boot of Java, GoLang, Python at the back-end side and React.js at the front-end side.
-  -I'm currently learning Swift in order to produce iOS applications.
+  - I'm a Full Stack Developer Candidate who can work with Spring Boot of Java, GoLang, Python at the back-end side and React.js at the front-end side.
+  - I'm currently learning Swift in order to produce iOS applications.
 
 📫 How to reach me: mdidin80@gmail.com || https://www.linkedin.com/in/mdidin/
 
