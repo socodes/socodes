@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-  - I'm a Full Stack Developer who can work with Spring Boot of Java, GoLang, Python at the back-end side and React.js at the front-end side.
-  - I'm currently focusing on Rust and Python.
+  - I'm a Full Stack Developer who can work with GoLang, Java, Python at the back-end side and React.js, React-Native at the front-end side.
+  - I'm currently focusing on GoLang and React.js.
 
 📫 How to reach me: mdidinxy@gmail.com || https://www.linkedin.com/in/mdidin/
 
